@@ -1,0 +1,5 @@
+cat > .prettierignore << 'EOF'
+node_modules
+dist
+build
+EOF
